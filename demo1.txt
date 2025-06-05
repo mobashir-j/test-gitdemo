@@ -1,5 +1,8 @@
 This is my first demo for remote repo
 update 2
 update 3
+<<<<<<< HEAD
 update 4
 5th Line
+=======
+>>>>>>> parent of 353cea7 (commit 4)
